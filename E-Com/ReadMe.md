@@ -1,13 +1,11 @@
-<h3>la page Consul : </h3>
-<img src="Captures/consul.PNG"/>
-<b/r>
---------------------------------
-<h3>Customer params Test: </h3>
-<img src="Captures/customer-params.png"/>
+<h3>La page Consul:</h3>
+<img src="Captures/consul.PNG" alt="Consul Screenshot">
 
-<h5>la List des Cutomers : </h5>
-<img src="Captures/customers.png">
-----------------------------------
-<h3>List des Orders: </h3>
-<img src="Captures/List-Orders.png"/>
-<h3>List des Orders: </h3>
+<h3>Customer Params Test:</h3>
+<img src="Captures/customer-params.png" alt="Customer Params Screenshot">
+
+<h5>La liste des Customers:</h5>
+<img src="Captures/customers.png" alt="Customers List Screenshot">
+
+<h3>Liste des Orders:</h3>
+<img src="Captures/List-Orders.png" alt="Orders List Screenshot">
