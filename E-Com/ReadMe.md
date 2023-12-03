@@ -4,6 +4,7 @@
 --------------------------------
 <h3>Customer params Test: </h3>
 <img src="Captures/customer-params.png">
+![Example Image](Captures/customer-params.png)
 <h5>la List des Cutomers : </h5>
 <img src="Captures/customers.png">
 ----------------------------------
