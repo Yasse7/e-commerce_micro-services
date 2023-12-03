@@ -1,6 +1,6 @@
 <h3>la page Consul : </h3>
 <img src="Captures/consul.PNG"/>
-</br>
+<b/r>
 --------------------------------
 <h3>Customer params Test: </h3>
 <img src="Captures/customer-params.png"/>
