@@ -1,2 +1,5 @@
-package board.orderservice.enums;public enum Orderstatus {
+package board.orderservice.enums;
+
+public enum Orderstatus {
+    CREATED , PENDING , DELIVERED , CANCELED
 }

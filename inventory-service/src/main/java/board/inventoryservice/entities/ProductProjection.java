@@ -1,2 +1,12 @@
-package board.inventoryservice.entities;public class ProductProjection {
+package board.inventoryservice.entities;
+
+import org.springframework.data.rest.core.config.Projection;
+
+@Projection(name = "fullproduct" ,types = Product.class)
+public interface ProductProjection {
+    public Long getId();
+    public String getName();
+    public  double getPrice();
+    public  int getQuantity();
+
 }
